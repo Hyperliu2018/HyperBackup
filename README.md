@@ -16,8 +16,8 @@ V0.1.3
  5. 添加：备份耗时记录
  6. 编译成可执行文件EXE
 
- 7. 遗留问题：备份时提示'--- Logging error ---',写入日志错误，但不影响文件备份
- UnicodeEncodeError: 'gbk' codec can't encode character '\xa0' in position 56: illegal multibyte sequence
+ 7. 遗留问题：备份时提示`--- Logging error ---`,写入日志错误，但不影响文件备份
+ `UnicodeEncodeError: 'gbk' codec can't encode character '\xa0' in position 56: illegal multibyte sequence`
 
 
 
