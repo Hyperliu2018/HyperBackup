@@ -1,6 +1,6 @@
 # HyperBackup更新日志
 用Python写的文件备份脚本
-
+> 环境：` Windows 10 64.bit `, ` Python 3.6.4 `
 
 
 ***
