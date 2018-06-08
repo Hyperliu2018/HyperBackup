@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 
@@ -10,8 +10,9 @@
 # 3. 添加：对有改动的文件，执行备份，保留原有文件，以备份时间为命名方式。已添加2018.06.07
 # 4. 添加：统计文件总数，已备份数量。 已添加2018.06.07
 # 5. 添加：备份时间记录
+# 6. 编译成可执行文件
 
-# 5. 遗留问题：备份时提示'--- Logging error ---',写入日志错误，但不影响文件备份
+# 7. 遗留问题：备份时提示'--- Logging error ---',写入日志错误，但不影响文件备份
 # UnicodeEncodeError:
 # 'gbk' codec can't encode character '\xa0' in position 56: illegal multibyte sequence
 #
